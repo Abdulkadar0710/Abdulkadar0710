@@ -2,6 +2,8 @@
 <h3 align="center">An coding enthusiast</h3>
 
 - 🔭 MCA final year student [SGSITS](Indore)
+  
+- 💻 Working as a intern at Alaukik Itech Solution
 
 - 🌱 I’m currently learning **AWS**
 
