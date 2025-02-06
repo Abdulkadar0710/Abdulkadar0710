@@ -5,7 +5,8 @@
 
 - 🔭 MCA final year student [SGSITS](Indore)
   
-- 💻 Working as a intern at Alaukik Itech Solution
+- 💻 Working as a intern at Alaukik Itech Solution ![image](https://github.com/user-attachments/assets/4863ef3d-260b-4f22-8fa1-3b3f04adffb5)
+
 
 - 🌱 I’m currently learning **AWS**
 
