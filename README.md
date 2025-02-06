@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Kadar khan</h1>
-<h3 align="center">A coding enthusiast from India</h3>
+<h3 align="center">An coding enthusiast</h3>
+
+- 🔭 MCA final year student [SGSITS](Indore)
 
 - 🌱 I’m currently learning **AWS**
 
