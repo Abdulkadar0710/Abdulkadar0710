@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Kadar khan</h1>
 <h3 align="center">An coding enthusiast</h3>
 
+<img align="right" alt="bg-image" width="400" src="https://media0.giphy.com/media/Rpl1sod1vCXK0L2SUN/200.gif?cid=6c09b952q01k10u404on7y2cv2x4ksrt61p3r0rmb9n6bnrr&ep=v1_gifs_search&rid=200.gif&ct=g" />
+
 - 🔭 MCA final year student [SGSITS](Indore)
   
 - 💻 Working as a intern at Alaukik Itech Solution
