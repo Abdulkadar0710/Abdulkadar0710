@@ -5,8 +5,7 @@
 
 - 🔭 MCA final year student [SGSITS](Indore)
   
-- 💻 Working as a intern at Alaukik Itech Solution 
-
+- 💻 Working as a intern at DevScript Technologies
 - 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://ak-portfolio-chi.vercel.app/](https://ak-portfolio-chi.vercel.app/)
