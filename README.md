@@ -6,7 +6,7 @@
 - 🔭 MCA from [SGSITS](Indore)
   
 - 💻 Working as a SDE at Galaxy Weblinks
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Shopify**
 
 - 👨‍💻 All of my projects are available at [https://ak-portfolio-chi.vercel.app/](https://ak-portfolio-chi.vercel.app/)
 
