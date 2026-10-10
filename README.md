@@ -10,7 +10,7 @@
 - ☁️ Working with **AWS, Docker, Kubernetes, and modern web technologies**
 - 🛒 Experienced in **Shopify, React Remix, Node.js, and e-commerce applications**
 - 👨‍💻 Solved **500+ problems on LeetCode**
-- 🌱 Continuously learning and improving my software engineering skills along with AI
+- 🌱 Continuously learning and improving my software engineering skills with AI
 - 📫 Reach me at **abdulkadarkhan.dev@gmail.com**
 
 ---
