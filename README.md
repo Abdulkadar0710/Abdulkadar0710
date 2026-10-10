@@ -74,7 +74,3 @@
 
 - 🎓 **Master of Computer Applications (MCA)** — SGSITS, Indore | CGPA: 7.64
 - 🎓 **Bachelor of Computer Applications (BCA)** — Christian Eminent College, Indore | CGPA: 8.93
-
----
-
-![Profile Footer](<img width="1063" height="491" alt="image" src="https://github.com/user-attachments/assets/ec250225-25a0-4794-8b36-111eda6568ec" />)
