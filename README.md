@@ -56,27 +56,6 @@
 
 ---
 
-### Featured Projects
-
-**1. ETT & ETT Marketplace — Carrier Transicold (2025–2026)**
-
-- Developed backend workflows for e-commerce applications with **100,000+ products**.
-- Implemented AWS S3 storage for application logs and CSV files.
-- Built checkout validation to prevent payments when required information is missing.
-- Developed webhooks and Node.js scripts for event-driven workflows.
-- Implemented B2B buyer management and bulk CSV uploads.
-- Integrated the Mirakl Marketplace platform and validated APIs.
-
-**2. OrderEase App (2026)**
-
-- Built a Shopify app that allows customers to modify orders after placement.
-- Implemented Shopify admin authentication and session persistence using MySQL and Prisma.
-- Integrated Google Maps API for location suggestions.
-- Implemented country-based currency and payment configurations.
-- Tested payment flows using a sandbox payment gateway and deployed the application on Railway.
-
----
-
 ### Competitive Programming
 
 - 🧩 Solved **500+ problems on LeetCode**
