@@ -77,5 +77,4 @@
 
 ---
 
-![Profile Footer](<img width="1063" height="491" alt="image" src="https://github.com/user-attachments/assets/ec250225-25a0-4794-8b36-111eda6568ec" />
-)
+![Profile Footer](<img width="1063" height="491" alt="image" src="https://github.com/user-attachments/assets/ec250225-25a0-4794-8b36-111eda6568ec" />)
